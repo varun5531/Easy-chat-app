@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "341515201521",
+    "firebase_url": "https://easychatec.firebaseio.com",
+    "project_id": "easychatec",
+    "storage_bucket": "easychatec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341515201521:android:69c3494cb4de6e2f40f250",
+        "android_client_info": {
+          "package_name": "com.example.easychatec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341515201521-ep9jgker6694ncqmq666ronk396de9hg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.easychatec",
+            "certificate_hash": "b834e6b86d77d6f57ee4e1e6cc01548f804fdf7b"
+          }
+        },
+        {
+          "client_id": "341515201521-htmf8v67fpql0sspmrtccviafihpej2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU-DKZdivXb3OoR8FLSGCml-htIiUS0Tw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341515201521-htmf8v67fpql0sspmrtccviafihpej2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
